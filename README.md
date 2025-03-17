@@ -93,7 +93,7 @@ pip install <dependency>
 `fibertree` can be installed with:
 
 ```bash
-pip install git+https://github.com/FPSG-UIUC/fibertree.git@metrics#egg=fiber-tree
+pip install git+https://github.com/FPSG-UIUC/fibertree.git@metrics#egg=fibertree
 ```
 
 `teaal` can be installed with:
